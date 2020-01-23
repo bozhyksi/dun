@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/.gradle/
+/out/
+/build/
+
+ExtentReports/
+/allure-results/
+/aqacore.iml
